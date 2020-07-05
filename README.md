@@ -1,9 +1,11 @@
 # Event_Registration_App
 Hack Stack 1.0 Hackathon Project:
 Our Project is the Event Registration app for stackhack1.0 and we built using Node js,Express,MongoDB,Bootstrap and EJS. We had done all the requirements which is mentioned in this hackathon. This project can be used with any other company's website for the registration purposes. The UI will be very flexible,easy to use and responsive.
-Features:
 
-On Front End:
+Live Demo: [Event Registration App](https://mm-hacks.herokuapp.com)
+#Features:
+
+##On Front End:
 
     Fields for Data Capture (All fields are mandatory)
         Full Name
@@ -21,13 +23,13 @@ On Front End:
 
 (Registration Date is generated as system date and get stored in Database)
 
-On Back end:
+##On Back end:
 
     This Backend should have database bindings to store the event registration info received from the Front End.
     The backend should be able to receive from and render to Front End all the event information, also store in and fetch from the database.
     Submit Screenshot, Source code & Deployment Instructions.
 
-Extra Features:
+##Extra Features:
     
         Admin Login functionality.
         Display a Chart detailing count of Registration types.
