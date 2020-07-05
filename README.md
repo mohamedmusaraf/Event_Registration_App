@@ -37,13 +37,13 @@ Our Project is the Event Registration app for stackhack1.0 and we built using No
         Hyperlink to view on Click on Registration No
         
 ## Instructions:
- 1.Download and extract the zip file.
- 2.Then cd Project/ on the terminal. 
- 3.Run the command npm install. 
- 4.Run the mongoDB server. 
- 5.On mongoDb shell, copy and paste the command to add admins, db.admins.insertOne({ "username" : "name", "password" : "password" }); 
- 6.Run the node js server by the command npm start. 
- 7.https://localhost:3000 for registration and https://localhost:3000/admin for admin works
+ * Download and extract the zip file.
+ * Then cd Project/ on the terminal. 
+ * Run the command npm install. 
+ * Run the mongoDB server. 
+ * On mongoDb shell, copy and paste the command to add admins, db.admins.insertOne({ "username" : "name", "password" : "password" }); 
+ * Run the node js server by the command npm start. 
+ * https://localhost:3000 for registration and https://localhost:3000/admin for admin works
 
 Thank you!
    
