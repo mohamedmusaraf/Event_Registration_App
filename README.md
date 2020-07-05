@@ -1,5 +1,6 @@
 # Event_Registration_App
-Hack Stack 1.0 Hackathon Project:
+## Hack Stack 1.0 
+### Hackathon Project:
 Our Project is the Event Registration app for stackhack1.0 and we built using Node js,Express,MongoDB,Bootstrap and EJS. We had done all the requirements which is mentioned in this hackathon. This project can be used with any other company's website for the registration purposes. The UI will be very flexible,easy to use and responsive.
 
 [Live Demo](https://mm-hacks.herokuapp.com)
